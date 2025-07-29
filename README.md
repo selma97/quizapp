@@ -1,37 +1,51 @@
-# React + TypeScript + Vite + Shadcn 
+# 🧠 React Quiz App
 
-# React Quiz App
+A responsive and interactive quiz application built with **React**, **TypeScript**, **Tailwind CSS**, **ShadCN UI**, and powered by the [Open Trivia DB API](https://opentdb.com/).
 
-This is a responsive quiz application built with **React**, **TypeScript**, **Tailwind CSS**, and **ShadCN UI**. It allows users to take a multiple-choice quiz with a countdown timer, visual feedback on correct/incorrect answers, and final score results.
+---
 
-## Features
+## 🚀 Features
 
-- Multiple choice questions using the [Open Trivia DB API](https://opentdb.com/)
-- 15-second countdown timer per question
-- Visual feedback: correct (green), incorrect (red), and dimmed unanswered options
-- Responsive layout (mobile and desktop)
-- Light/Dark mode toggle
-- Result screen with final score
-- Built using Vite, React Router, and modern UI libraries
+- ✅ Multiple-choice questions fetched from Open Trivia DB
+- ⏱️ 15-second countdown timer per question
+- 🟢 Visual feedback: green for correct, red for incorrect, dimmed unanswered
+- 💡 Instant result screen with final score
+- 🌙 Light/Dark mode toggle
+- 📱 Fully responsive (mobile & desktop)
+- ⚛️ Built with Vite, React Router, Tailwind, ShadCN
 
-## Demo
+---
 
-![Quiz App Screenshot]
+## 🛠️ Tech Stack
 
-## Getting Started
+- **React**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **ShadCN UI**
+- **Open Trivia DB API**
+- **React Router**
 
-### 1. Clone the Repository
+---
+
+## 📸 Demo
+
+<!-- Replace this with your image -->
+![Quiz App Screenshot](screenshot.png)
+
+---
+
+## 🧑‍💻 Getting Started
 
 ```bash
+# 1. Clone the repository
 git clone https://github.com/selma97/quizapp.git
-cd quiz-app
+cd quizapp
 
-### Install dependecies
-
+# 2. Install dependencies
 npm install
 
-### Start development server
-
+# 3. Start development server
 npm run dev
 
 
