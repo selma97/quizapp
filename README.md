@@ -31,7 +31,8 @@ A responsive and interactive quiz application built with **React**, **TypeScript
 ## 📸 Demo
 
 <!-- Replace this with your image -->
-![Quiz App Screenshot](screenshot.png)
+
+<img width="1877" height="912" alt="image" src="https://github.com/user-attachments/assets/a15b6515-2003-4215-8e81-7bc118ec8846" />
 
 ---
 
