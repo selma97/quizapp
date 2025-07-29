@@ -32,7 +32,8 @@ A responsive and interactive quiz application built with **React**, **TypeScript
 
 <!-- Replace this with your image -->
 
-<img width="1877" height="912" alt="image" src="https://github.com/user-attachments/assets/a15b6515-2003-4215-8e81-7bc118ec8846" />
+<img src="https://github.com/user-attachments/assets/a15b6515-2003-4215-8e81-7bc118ec8846" alt="Quiz question" width="600"/>
+<img src="https://github.com/user-attachments/assets/32c5a51b-1612-489c-98e5-ad469b00ef58" alt="Quiz homepage" width="600"/>
 
 ---
 
